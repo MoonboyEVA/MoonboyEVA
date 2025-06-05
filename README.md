@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">. 愛 ♡🌾. ㅤ ` 🪐Yooo~ im Pedro, a Brazilian boy 💞🎇</h1>
+<h1 align="center">. 愛 ♡🌾. ㅤ ` 🪐Yooo~  💞🎇</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as IT Support <br>- 📚 I'm currently learning Data Science on college <br>- ⚡ In my free time I play with my dog and walk around with my girlfriend. ...</p>
+<p align="left">I'm Pedro from Brazil! <br><br>- 🔭 I’m working as IT Support <br>- 📚 I'm currently learning Data Science on college <br>- ⚡ In my free time I play with my dog and walk around with my girlfriend. ...</p>
 
 ###
 
