@@ -22,12 +22,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
 <h1 align="center">. 愛 ♡🌾. ㅤ ` 🪐Yooo~  💞🎇</h1>
 
 ###
