@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/pedro-henrique-dos-santos-085028274/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjvg7Se29qNAxUgrZUCHVDkIqYQFnoECBUQAQ&url=https%3A%2F%2Ftwitter.com%2FdreamerboyEVA&usg=AOvVaw3M6nybN99k-5okNgvnjH7L&opi=89978449" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  </a>
   <a href="https://www.instagram.com/moonboyeva?igsh=a3JoYTZ1MXlqajZs" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
